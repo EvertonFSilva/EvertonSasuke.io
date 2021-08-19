@@ -5,23 +5,6 @@ body {
     color: #c4ffff;
 }
 
-@media (max-device-width: 900px) {
-	section#section_1 { width: 300px; }
-}
-
-@media (max-device-width: 900px) {
-	section#section_2 { width: 300px; }
-}
-
-@media (max-device-width: 900px) {
-	aside#aside_1 { width: 300px; }
-}
-
-@media (max-device-width: 900px) {
-	footer#footer_1 { width: 300px; }
-}
-
-
 section#section_1 {
     border: 1px #c4ffff solid;
     background-color: #008080;
