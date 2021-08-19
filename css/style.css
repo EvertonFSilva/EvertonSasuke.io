@@ -6,18 +6,19 @@ body {
 }
 
 @media (max-device-width: 900px) {
-	#section_1 { width: 100%; }
+	section#section_1 { width: 300px; }
 }
 
 @media (max-device-width: 900px) {
-	#section_2 { width: 100%; }
-}
-@media (max-device-width: 900px) {
-	#aside_1 { width: 100%; }
+	section#section_2 { width: 300px; }
 }
 
 @media (max-device-width: 900px) {
-	#footer_1 { width: 100%; }
+	aside#aside_1 { width: 300px; }
+}
+
+@media (max-device-width: 900px) {
+	footer#footer_1 { width: 300px; }
 }
 
 
