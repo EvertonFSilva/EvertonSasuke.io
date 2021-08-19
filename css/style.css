@@ -5,6 +5,22 @@ body {
     color: #c4ffff;
 }
 
+@media (max-device-width: 900px) {
+	#section_1 { width: 100%; }
+}
+
+@media (max-device-width: 900px) {
+	#section_2 { width: 100%; }
+}
+@media (max-device-width: 900px) {
+	#aside_1 { width: 100%; }
+}
+
+@media (max-device-width: 900px) {
+	#footer_1 { width: 100%; }
+}
+
+
 section#section_1 {
     border: 1px #c4ffff solid;
     background-color: #008080;
